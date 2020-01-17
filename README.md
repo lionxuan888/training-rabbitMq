@@ -1,0 +1,2 @@
+# training-rabbitMq
+training-rabbitMq

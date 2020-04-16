@@ -21,6 +21,7 @@ public class RabbitMqConfig {
     @Bean
     DirectExchange syncDirectExchange() {
         return new DirectExchange("sync_exchange");
+
     }
 
 
